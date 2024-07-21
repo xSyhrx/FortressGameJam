@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\s220297\\Documents\\FortressGameJam\\FortressGoblin\\Source\\FortressGoblin\\FortressGoblin.Build.cs",
+		"C:\\Users\\s220297\\Documents\\FortressGameJam\\FortressGoblin\\Source\\FortressGoblin.Target.cs",
+		"C:\\Users\\s220297\\Documents\\FortressGameJam\\FortressGoblin\\Source\\FortressGoblinEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
