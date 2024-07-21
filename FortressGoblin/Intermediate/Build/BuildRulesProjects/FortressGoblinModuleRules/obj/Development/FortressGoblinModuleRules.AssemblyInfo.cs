@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FortressGoblinModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+508abd96b904ab4b8592ef6602a07733d9ad40b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fab520582b3f84a7577328e44521d3232455869b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FortressGoblinModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FortressGoblinModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
