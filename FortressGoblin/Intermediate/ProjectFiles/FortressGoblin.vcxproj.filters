@@ -11,6 +11,7 @@
     <None Include="..\..\Source\FortressGoblinEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -51,6 +52,18 @@
       <Filter>Source\FortressGoblin</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\FortressGoblin\FortressGoblinGameMode.h">
+      <Filter>Source\FortressGoblin</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FortressGoblin\GoblinGameModeBase.cpp">
+      <Filter>Source\FortressGoblin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FortressGoblin\GoblinGameModeBase.h">
+      <Filter>Source\FortressGoblin</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FortressGoblin\TopDownCharacter.cpp">
+      <Filter>Source\FortressGoblin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FortressGoblin\TopDownCharacter.h">
       <Filter>Source\FortressGoblin</Filter>
     </ClInclude>
   </ItemGroup>

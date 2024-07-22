@@ -1568,3 +1568,1395 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.21-23.57.28:434][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
 [2024.07.21-23.57.28:436][240]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.07.21-23.57.28:436][240]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.216ms to complete.
+[2024.07.21-23.59.00:461][599]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.21-23.59.22:348][938]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.21-23.59.42:183][152]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.21-23.59.43:745][326]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.21-23.59.51:807][260]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.21-23.59.53:226][409]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.21-23.59.53:228][409]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.21-23.59.53:228][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.21-23.59.53:241][409]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.07.21-23.59.56:844][740]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.21-23.59.58:813][941]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2024.07.21-23.59.58:822][941]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.07.21-23.59.58:822][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.21-23.59.58:837][941]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.21-23.59.58:838][941]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.21-23.59.58:838][941]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.21-23.59.59:550][941]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.07.22-00.00.05:724][379]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.07.22-00.00.43:794][410]LogEditorTransaction: Undo Modify Component(s)
+[2024.07.22-00.01.25:921][874]LogEditorTransaction: Undo Edit Target Arm Length
+[2024.07.22-00.01.30:952][255]LogEditorTransaction: Undo Modify Component Location
+[2024.07.22-00.01.35:300][556]LogEditorTransaction: Undo Modify Component(s)
+[2024.07.22-00.01.36:951][659]LogEditorTransaction: Undo Modify Component(s)
+[2024.07.22-00.01.52:530][926]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.22-00.01.52:639][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.07.22-00.01.55:546][143]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.22-00.01.55:552][143]LogContentBundle: [RhysKouttsTestScene(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.22-00.01.55:552][143]LogWorldPartition: Display: GenerateStreaming for 'RhysKouttsTestScene' started...
+[2024.07.22-00.01.55:556][143]LogWorldPartition: Display: GenerateStreaming for 'RhysKouttsTestScene' took 4 ms
+[2024.07.22-00.01.55:559][143]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.22-00.01.55:560][143]PIE: New page: PIE session: RhysKouttsTestScene (22 Jul 2024, 8:01:55 pm)
+[2024.07.22-00.01.55:565][143]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.07.22-00.01.55:566][143]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.07.22-00.01.55:567][143]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_RhysKouttsTestScene
+[2024.07.22-00.01.55:571][143]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003871s)
+[2024.07.22-00.01.55:571][143]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/RhysKouttsTestScene.RhysKouttsTestScene to /Game/Scenes/UEDPIE_0_RhysKouttsTestScene.RhysKouttsTestScene (0.003906s)
+[2024.07.22-00.01.55:585][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.07.22-00.01.55:587][143]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-00.01.55:588][143]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-00.01.55:588][143]LogAIModule: Creating AISystem for world RhysKouttsTestScene
+[2024.07.22-00.01.55:589][143]LogWorldPartition: ULevel::OnLevelLoaded(RhysKouttsTestScene)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.22-00.01.55:589][143]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.22-00.01.55:589][143]LogWorldPartition: UWorldPartition::Initialize : World = RhysKouttsTestScene, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.22-00.01.55:590][143]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.22-00.01.55:591][143]LogContentBundle: [RhysKouttsTestScene(Standalone)] Creating new contrainer.
+[2024.07.22-00.01.55:591][143]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 128 ms)
+[2024.07.22-00.01.55:591][143]LogPlayLevel: PIE: World Init took: (0.003979s)
+[2024.07.22-00.01.55:591][143]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.07.22-00.01.55:591][143]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.22-00.01.55:591][143]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.22-00.01.55:591][143]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.22-00.01.55:591][143]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.22-00.01.55:591][143]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.22-00.01.55:591][143]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.22-00.01.55:591][143]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.22-00.01.55:591][143]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.22-00.01.55:592][143]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.22-00.01.55:592][143]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.22-00.01.55:592][143]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.22-00.01.55:594][143]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.22-00.01.55:606][143]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2024.07.22-00.01.55:606][143]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.22-00.01.55:606][143]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.22-00.01.55:606][143]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.22-00.01.55:607][143]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.07.22-00.01.55:607][143]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.07.22-00.01.55:608][143]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.07.22-00.01.55:608][143]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.07.22-00.01.55:608][143]LogInit: FAudioDevice initialized with ID 2.
+[2024.07.22-00.01.55:608][143]LogAudio: Display: Audio Device (ID: 2) registered with world 'RhysKouttsTestScene'.
+[2024.07.22-00.01.55:608][143]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.07.22-00.01.55:615][143]LogLoad: Game class is 'FortressGoblinGameMode'
+[2024.07.22-00.01.55:616][143]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_RhysKouttsTestScene.RhysKouttsTestScene up for play (max tick rate 0) at 2024.07.22-10.01.55
+[2024.07.22-00.01.55:618][143]LogWorld: Bringing up level for play took: 0.002627
+[2024.07.22-00.01.55:620][143]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.07.22-00.01.55:652][143]PIE: Server logged in
+[2024.07.22-00.01.55:654][143]PIE: Play in editor total start time 0.103 seconds.
+[2024.07.22-00.02.03:017][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-00.02.03:017][877]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_RhysKouttsTestScene
+[2024.07.22-00.02.03:017][877]LogWorld: UWorld::CleanupWorld for RhysKouttsTestScene, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-00.02.03:017][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-00.02.03:018][877]LogContentBundle: [RhysKouttsTestScene(Standalone)] Deleting container.
+[2024.07.22-00.02.03:021][877]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.22-00.02.03:026][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-00.02.03:038][877]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.22-00.02.03:038][877]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.07.22-00.02.03:038][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.07.22-00.02.03:040][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.07.22-00.02.03:043][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-00.02.03:046][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.07.22-00.02.03:119][878]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.07.22-00.02.32:061][201]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.22-00.02.32:162][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.07.22-00.03.12:313][494]LogViewport: Scene viewport resized to 1142x875, mode Windowed.
+[2024.07.22-00.03.12:348][496]LogViewport: Scene viewport resized to 1140x875, mode Windowed.
+[2024.07.22-00.03.12:374][497]LogViewport: Scene viewport resized to 1130x875, mode Windowed.
+[2024.07.22-00.03.12:398][498]LogViewport: Scene viewport resized to 1100x875, mode Windowed.
+[2024.07.22-00.03.12:431][499]LogViewport: Scene viewport resized to 1077x875, mode Windowed.
+[2024.07.22-00.03.12:485][500]LogViewport: Scene viewport resized to 1058x875, mode Windowed.
+[2024.07.22-00.03.12:521][501]LogViewport: Scene viewport resized to 1055x875, mode Windowed.
+[2024.07.22-00.03.12:574][502]LogViewport: Scene viewport resized to 1053x875, mode Windowed.
+[2024.07.22-00.03.12:604][503]LogViewport: Scene viewport resized to 1048x875, mode Windowed.
+[2024.07.22-00.03.12:629][504]LogViewport: Scene viewport resized to 1042x875, mode Windowed.
+[2024.07.22-00.03.12:655][505]LogViewport: Scene viewport resized to 1035x875, mode Windowed.
+[2024.07.22-00.03.12:679][506]LogViewport: Scene viewport resized to 1026x875, mode Windowed.
+[2024.07.22-00.03.12:715][507]LogViewport: Scene viewport resized to 1017x875, mode Windowed.
+[2024.07.22-00.03.12:740][508]LogViewport: Scene viewport resized to 1012x875, mode Windowed.
+[2024.07.22-00.03.12:766][509]LogViewport: Scene viewport resized to 1010x875, mode Windowed.
+[2024.07.22-00.03.12:789][510]LogViewport: Scene viewport resized to 1008x875, mode Windowed.
+[2024.07.22-00.03.12:815][511]LogViewport: Scene viewport resized to 1005x875, mode Windowed.
+[2024.07.22-00.03.12:840][512]LogViewport: Scene viewport resized to 1004x875, mode Windowed.
+[2024.07.22-00.03.12:866][513]LogViewport: Scene viewport resized to 1003x875, mode Windowed.
+[2024.07.22-00.03.12:889][514]LogViewport: Scene viewport resized to 1002x875, mode Windowed.
+[2024.07.22-00.03.12:926][516]LogViewport: Scene viewport resized to 1000x875, mode Windowed.
+[2024.07.22-00.03.12:952][517]LogViewport: Scene viewport resized to 999x875, mode Windowed.
+[2024.07.22-00.03.12:980][518]LogViewport: Scene viewport resized to 998x875, mode Windowed.
+[2024.07.22-00.03.13:005][519]LogViewport: Scene viewport resized to 996x875, mode Windowed.
+[2024.07.22-00.03.13:028][520]LogViewport: Scene viewport resized to 993x875, mode Windowed.
+[2024.07.22-00.03.13:052][521]LogViewport: Scene viewport resized to 991x875, mode Windowed.
+[2024.07.22-00.03.13:077][522]LogViewport: Scene viewport resized to 989x875, mode Windowed.
+[2024.07.22-00.03.13:118][523]LogViewport: Scene viewport resized to 986x875, mode Windowed.
+[2024.07.22-00.07.35:743][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.07.22-00.07.35:749][106]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Scenes/RhysKouttsTestScene/6/05/DUHG2MYY0GTNJS3OR32T62_Auto1
+[2024.07.22-00.07.35:749][106]LogSavePackage: Moving '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/DUHG2MYY0GTNJS3OR32T62_Auto15C381D184A888190D60390ABF65D1317.tmp' to '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/Autosaves/Game/__ExternalActors__/Scenes/RhysKouttsTestScene/6/05/DUHG2MYY0GTNJS3OR32T62_Auto1.uasset'
+[2024.07.22-00.07.35:750][106]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/RhysKouttsTestScene' took 0.024
+[2024.07.22-00.07.35:750][106]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2024.07.22-00.07.35:750][106]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.07.22-00.07.35:751][106]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-00.07.35:863][106]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2024.07.22-00.07.35:886][106]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.07.22-00.07.35:886][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.07.22-00.07.35:890][106]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1
+[2024.07.22-00.07.35:890][106]LogSavePackage: Moving '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/BP_ThirdPersonCharacter_Auto1362539BC483227A0FA451C820F77C302.tmp' to '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2024.07.22-00.07.35:891][106]LogFileHelpers: Auto-saving content packages took 0.140
+[2024.07.22-00.12.07:616][160]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.22-00.12.07:789][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.07.22-00.12.10:153][327]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.22-00.12.10:157][327]LogContentBundle: [RhysKouttsTestScene(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.22-00.12.10:157][327]LogWorldPartition: Display: GenerateStreaming for 'RhysKouttsTestScene' started...
+[2024.07.22-00.12.10:159][327]LogWorldPartition: Display: GenerateStreaming for 'RhysKouttsTestScene' took 1 ms (total: 5 ms)
+[2024.07.22-00.12.10:159][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.22-00.12.10:159][327]PIE: New page: PIE session: RhysKouttsTestScene (22 Jul 2024, 8:12:10 pm)
+[2024.07.22-00.12.10:184][327]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_RhysKouttsTestScene
+[2024.07.22-00.12.10:188][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003838s)
+[2024.07.22-00.12.10:188][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/RhysKouttsTestScene.RhysKouttsTestScene to /Game/Scenes/UEDPIE_0_RhysKouttsTestScene.RhysKouttsTestScene (0.003895s)
+[2024.07.22-00.12.10:200][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.07.22-00.12.10:201][327]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-00.12.10:201][327]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-00.12.10:202][327]LogAIModule: Creating AISystem for world RhysKouttsTestScene
+[2024.07.22-00.12.10:202][327]LogWorldPartition: ULevel::OnLevelLoaded(RhysKouttsTestScene)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.22-00.12.10:202][327]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.22-00.12.10:202][327]LogWorldPartition: UWorldPartition::Initialize : World = RhysKouttsTestScene, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.22-00.12.10:202][327]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.22-00.12.10:203][327]LogContentBundle: [RhysKouttsTestScene(Standalone)] Creating new contrainer.
+[2024.07.22-00.12.10:203][327]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 130 ms)
+[2024.07.22-00.12.10:203][327]LogPlayLevel: PIE: World Init took: (0.002374s)
+[2024.07.22-00.12.10:203][327]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.07.22-00.12.10:203][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.22-00.12.10:203][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.22-00.12.10:203][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.22-00.12.10:203][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.22-00.12.10:203][327]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.22-00.12.10:203][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.22-00.12.10:203][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.22-00.12.10:203][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.22-00.12.10:204][327]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.22-00.12.10:204][327]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.22-00.12.10:204][327]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.22-00.12.10:206][327]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.22-00.12.10:218][327]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2024.07.22-00.12.10:218][327]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.22-00.12.10:218][327]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.22-00.12.10:219][327]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.22-00.12.10:219][327]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.07.22-00.12.10:219][327]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.07.22-00.12.10:221][327]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.07.22-00.12.10:221][327]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.07.22-00.12.10:221][327]LogInit: FAudioDevice initialized with ID 3.
+[2024.07.22-00.12.10:221][327]LogAudio: Display: Audio Device (ID: 3) registered with world 'RhysKouttsTestScene'.
+[2024.07.22-00.12.10:221][327]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.07.22-00.12.10:223][327]LogLoad: Game class is 'FortressGoblinGameMode'
+[2024.07.22-00.12.10:225][327]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_RhysKouttsTestScene.RhysKouttsTestScene up for play (max tick rate 0) at 2024.07.22-10.12.10
+[2024.07.22-00.12.10:225][327]LogWorld: Bringing up level for play took: 0.001567
+[2024.07.22-00.12.10:227][327]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.07.22-00.12.10:230][327]PIE: Server logged in
+[2024.07.22-00.12.10:231][327]PIE: Play in editor total start time 0.074 seconds.
+[2024.07.22-00.12.13:125][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-00.12.13:125][615]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_RhysKouttsTestScene
+[2024.07.22-00.12.13:125][615]LogWorld: UWorld::CleanupWorld for RhysKouttsTestScene, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-00.12.13:125][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-00.12.13:125][615]LogContentBundle: [RhysKouttsTestScene(Standalone)] Deleting container.
+[2024.07.22-00.12.13:128][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.22-00.12.13:132][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-00.12.13:147][615]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.22-00.12.13:147][615]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.07.22-00.12.13:147][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.07.22-00.12.13:149][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.07.22-00.12.13:152][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-00.12.13:154][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.07.22-00.12.13:230][616]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.07.22-00.12.14:377][709]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.22-00.12.14:552][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.07.22-00.12.37:614][941]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.22-00.12.37:619][941]LogContentBundle: [RhysKouttsTestScene(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.22-00.12.37:619][941]LogWorldPartition: Display: GenerateStreaming for 'RhysKouttsTestScene' started...
+[2024.07.22-00.12.37:621][941]LogWorldPartition: Display: GenerateStreaming for 'RhysKouttsTestScene' took 1 ms (total: 7 ms)
+[2024.07.22-00.12.37:621][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.22-00.12.37:621][941]PIE: New page: PIE session: RhysKouttsTestScene (22 Jul 2024, 8:12:37 pm)
+[2024.07.22-00.12.37:644][941]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_RhysKouttsTestScene
+[2024.07.22-00.12.37:647][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003354s)
+[2024.07.22-00.12.37:647][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/RhysKouttsTestScene.RhysKouttsTestScene to /Game/Scenes/UEDPIE_0_RhysKouttsTestScene.RhysKouttsTestScene (0.003389s)
+[2024.07.22-00.12.37:662][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.07.22-00.12.37:663][941]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-00.12.37:663][941]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-00.12.37:663][941]LogAIModule: Creating AISystem for world RhysKouttsTestScene
+[2024.07.22-00.12.37:664][941]LogWorldPartition: ULevel::OnLevelLoaded(RhysKouttsTestScene)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.22-00.12.37:664][941]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.22-00.12.37:664][941]LogWorldPartition: UWorldPartition::Initialize : World = RhysKouttsTestScene, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.22-00.12.37:664][941]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.22-00.12.37:664][941]LogContentBundle: [RhysKouttsTestScene(Standalone)] Creating new contrainer.
+[2024.07.22-00.12.37:664][941]LogWorldPartition: Display: WorldPartition initialize took 954 us (total: 131 ms)
+[2024.07.22-00.12.37:664][941]LogPlayLevel: PIE: World Init took: (0.001936s)
+[2024.07.22-00.12.37:665][941]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.07.22-00.12.37:665][941]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.22-00.12.37:665][941]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.22-00.12.37:665][941]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.22-00.12.37:665][941]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.22-00.12.37:665][941]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.22-00.12.37:665][941]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.22-00.12.37:665][941]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.22-00.12.37:665][941]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.22-00.12.37:665][941]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.22-00.12.37:665][941]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.22-00.12.37:665][941]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.22-00.12.37:667][941]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.22-00.12.37:680][941]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2024.07.22-00.12.37:681][941]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.22-00.12.37:681][941]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.22-00.12.37:681][941]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.22-00.12.37:682][941]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.07.22-00.12.37:682][941]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.07.22-00.12.37:683][941]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.07.22-00.12.37:683][941]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.07.22-00.12.37:683][941]LogInit: FAudioDevice initialized with ID 4.
+[2024.07.22-00.12.37:683][941]LogAudio: Display: Audio Device (ID: 4) registered with world 'RhysKouttsTestScene'.
+[2024.07.22-00.12.37:683][941]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.07.22-00.12.37:685][941]LogLoad: Game class is 'FortressGoblinGameMode'
+[2024.07.22-00.12.37:687][941]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_RhysKouttsTestScene.RhysKouttsTestScene up for play (max tick rate 0) at 2024.07.22-10.12.37
+[2024.07.22-00.12.37:687][941]LogWorld: Bringing up level for play took: 0.001509
+[2024.07.22-00.12.37:689][941]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.07.22-00.12.37:692][941]PIE: Server logged in
+[2024.07.22-00.12.37:693][941]PIE: Play in editor total start time 0.074 seconds.
+[2024.07.22-00.12.39:894][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-00.12.39:894][165]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_RhysKouttsTestScene
+[2024.07.22-00.12.39:894][165]LogWorld: UWorld::CleanupWorld for RhysKouttsTestScene, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-00.12.39:894][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-00.12.39:894][165]LogContentBundle: [RhysKouttsTestScene(Standalone)] Deleting container.
+[2024.07.22-00.12.39:897][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.22-00.12.39:901][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-00.12.39:916][165]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.22-00.12.39:916][165]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.07.22-00.12.39:916][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.07.22-00.12.39:917][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.07.22-00.12.39:921][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-00.12.39:923][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.07.22-00.12.40:008][166]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.07.22-00.12.41:511][291]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.22-00.12.41:691][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.07.22-00.14.57:378][500]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.07.22-00.14.57:559][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.07.22-00.20.39:707][ 62]Running C:/Program Files/Epic Games/UE_5.3/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/FortressGoblin.uproject" -game -rocket -progress
+[2024.07.22-00.20.39:813][ 62]Using bundled DotNet SDK version: 6.0.302
+[2024.07.22-00.20.39:813][ 62]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/FortressGoblin.uproject" -game -rocket -progress
+[2024.07.22-00.20.40:115][ 62]Log file: C:\Users\s220297\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2024.07.22-00.20.40:316][ 62]
+[2024.07.22-00.20.40:316][ 62]Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64.
+[2024.07.22-00.20.40:316][ 62]See the log file for detailed information
+[2024.07.22-00.20.40:316][ 62]
+[2024.07.22-00.20.40:316][ 62]
+[2024.07.22-00.20.40:316][ 62]Generating VisualStudio project files:
+[2024.07.22-00.20.40:417][ 62]Discovering modules, targets and source code for project...
+[2024.07.22-00.20.41:422][ 62]Binding IntelliSense data...
+[2024.07.22-00.20.50:279][ 62]Binding IntelliSense data... 100%
+[2024.07.22-00.20.50:279][ 62]Creating common properties file...
+[2024.07.22-00.20.50:279][ 62]Creating common properties file... 0%
+[2024.07.22-00.20.50:279][ 62]Writing project files...
+[2024.07.22-00.20.51:285][ 62]Writing project files... 100%
+[2024.07.22-00.20.51:285][ 62]
+[2024.07.22-00.20.51:285][ 62]Generating QueryTargets data for editor...
+[2024.07.22-00.20.51:499][ 62]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.07.22-00.20.51:504][ 62]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.51:507][ 62]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.51:507][ 62]LogSlate: Window 'Add C++ Class' being destroyed
+[2024.07.22-00.20.51:513][ 62]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.51:516][ 62]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.51:552][ 62]LogAutomationController: Ignoring very large delta of 12.94 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.22-00.20.51:555][ 63]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.51:558][ 63]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.51:888][ 64]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.51:891][ 64]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.52:221][ 65]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.52:224][ 65]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.52:555][ 66]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.52:558][ 66]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.52:897][ 67]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.52:901][ 67]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.53:230][ 68]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.53:234][ 68]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.53:587][ 69]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.53:594][ 69]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.53:898][ 70]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.53:902][ 70]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.54:232][ 71]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.54:235][ 71]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.54:566][ 72]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.54:570][ 72]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.54:899][ 73]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.54:902][ 73]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.55:232][ 74]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.55:234][ 74]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.55:565][ 75]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.55:568][ 75]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.55:898][ 76]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.55:901][ 76]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.56:232][ 77]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.56:235][ 77]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.56:565][ 78]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.56:568][ 78]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.56:899][ 79]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.56:902][ 79]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.57:232][ 80]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.57:235][ 80]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.57:567][ 81]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.57:569][ 81]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.57:900][ 82]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.57:903][ 82]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.58:233][ 83]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.58:235][ 83]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.58:566][ 84]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.58:569][ 84]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.58:900][ 85]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.58:903][ 85]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.59:234][ 86]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.59:237][ 86]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.59:567][ 87]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.59:570][ 87]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.59:901][ 88]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.20.59:904][ 88]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.00:234][ 89]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.00:237][ 89]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.00:495][ 90]LogLiveCoding: Display:    Creating library C:\Users\s220297\Documents\FortressGameJam\FortressGoblin\Binaries\Win64\UnrealEditor-FortressGoblin.patch_0.lib and object C:\Users\s220297\Documents\FortressGameJam\FortressGoblin\Binaries\Win64\UnrealEditor-FortressGoblin.patch_0.exp
+[2024.07.22-00.21.00:567][ 90]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.00:570][ 90]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.00:663][ 91]LogClass: UPackage /Script/FortressGoblin Reload.
+[2024.07.22-00.21.00:667][ 91]LogClass: Could not find existing class TopDownCharacter in package /Script/FortressGoblin for reload, assuming new or modified class
+[2024.07.22-00.21.00:832][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.07.22-00.21.01:249][ 91]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.01:252][ 91]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.01:262][ 92]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 2 classes unchanged
+[2024.07.22-00.21.01:262][ 92]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.07.22-00.21.01:289][ 92]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.01:292][ 92]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.01:623][ 93]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.01:626][ 93]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.01:956][ 94]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.01:959][ 94]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.02:290][ 95]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.02:293][ 95]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.02:623][ 96]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.02:626][ 96]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.02:957][ 97]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.02:959][ 97]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.03:290][ 98]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.03:292][ 98]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.03:624][ 99]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.03:627][ 99]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.03:957][100]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.03:961][100]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.04:291][101]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.04:294][101]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.04:624][102]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.04:627][102]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.04:958][103]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.04:961][103]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.05:292][104]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.05:294][104]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.05:625][105]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.05:629][105]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.05:959][106]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.05:962][106]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.06:292][107]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.06:295][107]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.06:625][108]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.06:628][108]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.06:958][109]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.06:961][109]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.07:292][110]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.07:295][110]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.07:626][111]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.07:629][111]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.07:959][112]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.07:962][112]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.08:292][113]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.08:295][113]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.08:626][114]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.08:628][114]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.08:958][115]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.08:961][115]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.09:292][116]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.09:296][116]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.09:625][117]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.09:628][117]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.09:959][118]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.09:962][118]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.10:291][119]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.10:294][119]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.10:625][120]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.10:628][120]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.10:959][121]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.10:961][121]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.11:292][122]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.11:295][122]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.11:626][123]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.11:629][123]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.11:958][124]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.11:961][124]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.12:291][125]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.12:294][125]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.12:626][126]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.12:629][126]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.12:959][127]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.12:962][127]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.13:293][128]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.13:296][128]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.13:627][129]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.13:630][129]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.13:960][130]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.13:963][130]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.14:294][131]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.14:296][131]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.14:628][132]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.14:631][132]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.14:961][133]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.14:964][133]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.15:294][134]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.15:297][134]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.15:627][135]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.15:630][135]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.15:960][136]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.15:963][136]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.16:293][137]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.16:296][137]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.16:626][138]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.16:629][138]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.16:961][139]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.16:964][139]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.17:294][140]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.17:298][140]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.17:627][141]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.17:630][141]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.17:961][142]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.17:965][142]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.18:295][143]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.18:298][143]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.18:627][144]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.18:631][144]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.18:961][145]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.18:964][145]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.19:294][146]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.19:297][146]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.19:627][147]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.19:630][147]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.19:962][148]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.19:965][148]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.20:294][149]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.20:297][149]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.20:627][150]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.20:630][150]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.20:961][151]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.20:964][151]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.21:294][152]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.21:297][152]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.21:628][153]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.21:631][153]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.21:960][154]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.21:963][154]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.22:294][155]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.22:298][155]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.22:627][156]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.22:630][156]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.22:960][157]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.22:963][157]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.23:294][158]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.23:297][158]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.23:627][159]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.23:630][159]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.23:961][160]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.23:964][160]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.24:295][161]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.24:298][161]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.24:628][162]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.24:631][162]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.24:961][163]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.24:964][163]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.25:295][164]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.25:298][164]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.25:628][165]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.25:631][165]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.25:963][166]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.25:966][166]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.26:296][167]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.26:299][167]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.26:629][168]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.26:632][168]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.26:962][169]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.26:966][169]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.27:296][170]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.27:299][170]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.27:629][171]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.27:632][171]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.27:962][172]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.27:965][172]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.28:296][173]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.28:298][173]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.28:629][174]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.28:632][174]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.28:963][175]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.28:965][175]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.29:296][176]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.29:299][176]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.29:629][177]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.29:633][177]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.29:963][178]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.29:966][178]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.30:297][179]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.30:300][179]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.30:630][180]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.30:633][180]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.30:963][181]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.30:966][181]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.31:296][182]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.31:300][182]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.31:630][183]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.31:633][183]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.31:963][184]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.31:966][184]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.32:296][185]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.32:299][185]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.32:630][186]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.32:634][186]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.32:965][187]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.32:968][187]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.33:298][188]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.33:301][188]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.33:631][189]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.33:635][189]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.33:966][190]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.33:968][190]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.34:298][191]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.34:301][191]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.34:632][192]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.34:635][192]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.34:965][193]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.34:968][193]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.35:298][194]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.35:301][194]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.35:631][195]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.35:634][195]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.35:965][196]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.35:968][196]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.36:298][197]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.36:302][197]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.36:631][198]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.36:634][198]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.36:965][199]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.36:968][199]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.37:299][200]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.37:301][200]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-00.21.44:118][339]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2024.07.22-00.21.44:124][339]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2024.07.22-00.21.44:126][339]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-00.21.44:126][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-00.28.50:488][458]LogLiveCoding: Display: Console will be hidden but remain running in the background. Restart to disable completely.
+[2024.07.22-00.29.23:366][947]LogHotReload: New module detected: UnrealEditor-FortressGoblin-0001.dll
+[2024.07.22-00.29.24:371][951]LogHotReload: Starting Hot-Reload from IDE
+[2024.07.22-00.29.24:466][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.07.22-00.29.24:681][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.07.22-00.29.24:768][951]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_0_END wave CompileSuccess...
+[2024.07.22-00.29.24:771][951]Display: HotReload took  0.4s.
+[2024.07.22-00.29.24:771][951]Display: Reload/Re-instancing Complete: 1 package changed, 3 classes unchanged
+[2024.07.22-00.29.24:771][951]LogAudio: Display: Chunk sizes for SoundWave /Engine/EditorSounds/Notifications/CompileSuccess.CompileSuccess: Chunk0=28 bytes, Chunk1-N=256k
+[2024.07.22-00.30.44:103][ 42]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MyTopDownCharacter.MyTopDownCharacter
+[2024.07.22-00.30.44:103][ 42]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-00.30.44:103][ 42]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-00.30.44:250][ 42]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2024.07.22-00.30.44:322][ 42]LogViewport: Scene viewport resized to 986x875, mode Windowed.
+[2024.07.22-00.31.02:867][918]LogSlate: Window 'Content Browser' being destroyed
+[2024.07.22-00.31.02:871][918]LogSlate: Window 'Content Browser' being destroyed
+[2024.07.22-00.31.16:636][ 85]LogContentBrowser: Attempting asset rename: MyTopDownCharacter -> BP_TopDownChar
+[2024.07.22-00.31.16:663][ 85]LogMetaData: Removing '/Game/Blueprints/BP_TopDownChar.BP_TopDownChar:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/MyTopDownCharacter.PackageMetaData'
+[2024.07.22-00.31.16:663][ 85]LogMetaData: Removing '/Game/Blueprints/BP_TopDownChar.SKEL_BP_TopDownChar_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/MyTopDownCharacter.PackageMetaData'
+[2024.07.22-00.31.16:663][ 85]LogMetaData: Removing '/Game/Blueprints/BP_TopDownChar.SKEL_BP_TopDownChar_C' ref from Metadata '/Game/Blueprints/MyTopDownCharacter.PackageMetaData'
+[2024.07.22-00.31.16:663][ 85]LogMetaData: Removing '/Game/Blueprints/BP_TopDownChar.BP_TopDownChar_C' ref from Metadata '/Game/Blueprints/MyTopDownCharacter.PackageMetaData'
+[2024.07.22-00.31.16:663][ 85]LogMetaData: Removing '/Game/Blueprints/BP_TopDownChar.BP_TopDownChar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/MyTopDownCharacter.PackageMetaData'
+[2024.07.22-00.31.16:663][ 85]LogMetaData: Removing '/Game/Blueprints/BP_TopDownChar.BP_TopDownChar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/MyTopDownCharacter.PackageMetaData'
+[2024.07.22-00.31.16:663][ 85]LogMetaData: Removing '/Game/Blueprints/BP_TopDownChar.BP_TopDownChar:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/MyTopDownCharacter.PackageMetaData'
+[2024.07.22-00.31.16:673][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.22-00.31.16:721][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TopDownChar" FILE="../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Blueprints/BP_TopDownChar.uasset" SILENT=true
+[2024.07.22-00.31.16:723][ 85]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/BP_TopDownChar.BP_TopDownChar_C' for saving '/Game/Blueprints/BP_TopDownChar.BP_TopDownChar_C'
+[2024.07.22-00.31.16:723][ 85]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/BP_TopDownChar.BP_TopDownChar_C' for saving '/Game/Blueprints/BP_TopDownChar.BP_TopDownChar_C'
+[2024.07.22-00.31.16:723][ 85]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_TopDownChar
+[2024.07.22-00.31.16:724][ 85]LogSavePackage: Moving '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/BP_TopDownCharB13DABF34B7469F064B8ED90BA3190C7.tmp' to '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Blueprints/BP_TopDownChar.uasset'
+[2024.07.22-00.31.16:732][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 152 ms)
+[2024.07.22-00.31.16:809][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.07.22-00.31.16:850][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.07.22-00.31.16:868][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.07.22-00.31.16:870][ 85]AssetCheck: New page: Asset Save: BP_TopDownChar
+[2024.07.22-00.31.16:870][ 85]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_TopDownChar.BP_TopDownChar
+[2024.07.22-00.31.51:732][458]LogViewport: Scene viewport resized to 939x580, mode Windowed.
+[2024.07.22-00.31.53:667][458]LogAutomationController: Ignoring very large delta of 2.03 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.22-00.31.53:754][459]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.07.22-00.31.53:758][459]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/RhysKouttsTestScene' took 0.019
+[2024.07.22-00.31.53:758][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.07.22-00.31.53:775][459]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.07.22-00.31.53:775][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.07.22-00.31.53:778][459]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2024.07.22-00.31.53:779][459]LogSavePackage: Moving '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/BP_ThirdPersonCharacter_Auto2596B31764D648E1D02C28886A2B9452E.tmp' to '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2024.07.22-00.31.53:779][459]LogFileHelpers: Auto-saving content packages took 0.021
+[2024.07.22-00.31.54:566][512]LogViewport: Scene viewport resized to 1413x900, mode Windowed.
+[2024.07.22-00.31.59:332][849]LogSlate: External Image Picker: DecompressImage failed
+[2024.07.22-00.32.52:929][153]LogSlate: Window 'Content Browser' being destroyed
+[2024.07.22-00.32.52:932][153]LogSlate: Window 'Content Browser' being destroyed
+[2024.07.22-00.32.54:259][243]BlueprintLog: New page: Compile BP_TopDownChar
+[2024.07.22-00.32.54:343][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.07.22-00.33.15:122][131]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.07.22-00.50.35:442][955]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.07.22-00.50.35:463][955]LogContentBrowser: Creating deferred item: NewFolder
+[2024.07.22-00.50.35:479][956]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.07.22-00.50.39:656][318]LogContentBrowser: Attempting asset rename: NewFolder -> Character
+[2024.07.22-00.50.39:656][318]LogContentBrowser: End creating deferred item NewFolder
+[2024.07.22-00.50.42:716][561]LogMetaData: Removing '/Game/Blueprints/Character/BP_TopDownChar.BP_TopDownChar_C' ref from Metadata '/Game/Blueprints/BP_TopDownChar.PackageMetaData'
+[2024.07.22-00.50.42:716][561]LogMetaData: Removing '/Game/Blueprints/Character/BP_TopDownChar.SKEL_BP_TopDownChar_C' ref from Metadata '/Game/Blueprints/BP_TopDownChar.PackageMetaData'
+[2024.07.22-00.50.42:716][561]LogMetaData: Removing '/Game/Blueprints/Character/BP_TopDownChar.BP_TopDownChar:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_TopDownChar.PackageMetaData'
+[2024.07.22-00.50.42:716][561]LogMetaData: Removing '/Game/Blueprints/Character/BP_TopDownChar.BP_TopDownChar:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_TopDownChar.PackageMetaData'
+[2024.07.22-00.50.42:716][561]LogMetaData: Removing '/Game/Blueprints/Character/BP_TopDownChar.BP_TopDownChar:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_TopDownChar.PackageMetaData'
+[2024.07.22-00.50.42:716][561]LogMetaData: Removing '/Game/Blueprints/Character/BP_TopDownChar.BP_TopDownChar:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_TopDownChar.PackageMetaData'
+[2024.07.22-00.50.42:716][561]LogMetaData: Removing '/Game/Blueprints/Character/BP_TopDownChar.SKEL_BP_TopDownChar_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_TopDownChar.PackageMetaData'
+[2024.07.22-00.50.42:717][561]LogMetaData: Removing '/Game/Blueprints/Character/BP_TopDownChar.SKEL_BP_TopDownChar_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/BP_TopDownChar.PackageMetaData'
+[2024.07.22-00.50.42:717][561]LogMetaData: Removing '/Game/Blueprints/Character/BP_TopDownChar.SKEL_BP_TopDownChar_C:ReceiveTick' ref from Metadata '/Game/Blueprints/BP_TopDownChar.PackageMetaData'
+[2024.07.22-00.50.42:717][561]LogMetaData: Removing '/Game/Blueprints/Character/BP_TopDownChar.SKEL_BP_TopDownChar_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_TopDownChar.PackageMetaData'
+[2024.07.22-00.50.42:726][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.22-00.50.42:772][561]LogSavePackage: Moving output files for package: /Game/Blueprints/Character/BP_TopDownChar
+[2024.07.22-00.50.42:772][561]LogSavePackage: Moving '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/BP_TopDownChar78842EB34D99CB198B212586F8C2CCCC.tmp' to '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Blueprints/Character/BP_TopDownChar.uasset'
+[2024.07.22-00.50.42:782][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 208 ms)
+[2024.07.22-00.50.42:807][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.07.22-00.50.42:822][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.07.22-00.50.42:837][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.07.22-00.50.42:849][561]AssetCheck: New page: Asset Save: BP_TopDownChar
+[2024.07.22-00.50.42:849][561]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Character/BP_TopDownChar.BP_TopDownChar
+[2024.07.22-00.50.44:866][709]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.07.22-00.50.44:897][709]LogContentBrowser: Creating deferred item: NewFolder
+[2024.07.22-00.50.44:911][710]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.07.22-00.50.49:306][ 87]LogContentBrowser: Attempting asset rename: NewFolder -> GameModes
+[2024.07.22-00.50.49:306][ 87]LogContentBrowser: End creating deferred item NewFolder
+[2024.07.22-00.51.21:005][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.07.22-00.51.21:006][748]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/RhysKouttsTestScene' took 0.019
+[2024.07.22-00.51.21:006][748]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.07.22-00.51.21:092][748]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.07.22-00.51.21:092][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.07.22-00.51.21:096][748]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3
+[2024.07.22-00.51.21:096][748]LogSavePackage: Moving '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/BP_ThirdPersonCharacter_Auto3758EA5144C695227DAF4B9B71E77B525.tmp' to '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3.uasset'
+[2024.07.22-00.51.21:096][748]LogFileHelpers: Auto-saving content packages took 0.091
+[2024.07.22-00.53.31:125][482]Running C:/Program Files/Epic Games/UE_5.3/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/FortressGoblin.uproject" -game -rocket -progress
+[2024.07.22-00.53.31:228][482]Using bundled DotNet SDK version: 6.0.302
+[2024.07.22-00.53.31:228][482]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/FortressGoblin.uproject" -game -rocket -progress
+[2024.07.22-00.53.31:529][482]Log file: C:\Users\s220297\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2024.07.22-00.53.31:630][482]
+[2024.07.22-00.53.31:630][482]Some Platforms were skipped due to invalid SDK setup: IOS, Android, Linux, LinuxArm64.
+[2024.07.22-00.53.31:630][482]See the log file for detailed information
+[2024.07.22-00.53.31:630][482]
+[2024.07.22-00.53.31:630][482]
+[2024.07.22-00.53.31:630][482]Generating VisualStudio project files:
+[2024.07.22-00.53.31:630][482]Discovering modules, targets and source code for project...
+[2024.07.22-00.53.32:635][482]Binding IntelliSense data...
+[2024.07.22-00.53.35:759][482]Binding IntelliSense data... 100%
+[2024.07.22-00.53.35:759][482]Creating common properties file...
+[2024.07.22-00.53.35:759][482]Creating common properties file... 0%
+[2024.07.22-00.53.35:759][482]Writing project files...
+[2024.07.22-00.53.36:866][482]Writing project files... 100%
+[2024.07.22-00.53.36:867][482]
+[2024.07.22-00.53.36:867][482]Generating QueryTargets data for editor...
+[2024.07.22-00.53.37:100][482]Candidate modules for hot reload:
+[2024.07.22-00.53.37:100][482]  FortressGoblin
+[2024.07.22-00.53.37:105][482]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.3/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=FortressGoblin,1150 FortressGoblinEditor Win64 Development -Project="C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/FortressGoblin.uproject" "C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/FortressGoblin.uproject"  -IgnoreJunk]
+[2024.07.22-00.53.41:714][482]CompilerResultsLog: New page: Compilation - 22 Jul 2024, 8:53:41 pm
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: Using bundled DotNet SDK version: 6.0.302
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=FortressGoblin,1150 FortressGoblinEditor Win64 Development -Project="C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/FortressGoblin.uproject" "C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/FortressGoblin.uproject"  -IgnoreJunk
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: Log file: C:\Users\s220297\AppData\Local\UnrealBuildTool\Log.txt
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\s220297\Documents\FortressGameJam).
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: Creating makefile for FortressGoblinEditor (no existing makefile)
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: Parsing headers for FortressGoblinEditor
+[2024.07.22-00.53.41:715][482]CompilerResultsLog:   Running Internal UnrealHeaderTool C:\Users\s220297\Documents\FortressGameJam\FortressGoblin\FortressGoblin.uproject C:\Users\s220297\Documents\FortressGameJam\FortressGoblin\Intermediate\Build\Win64\FortressGoblinEditor\Development\FortressGoblinEditor.uhtmanifest -WarningsAsErrors -installed
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: Total of 3 written
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: Reflection code generated for FortressGoblinEditor in 0.9438849 seconds
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: Building FortressGoblinEditor...
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: Using Visual Studio 2022 14.34.31948 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: [Adaptive Build] Excluded from FortressGoblin unity file: GoblinGameModeBase.cpp, TopDownCharacter.cpp
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2024.07.22-00.53.41:715][482]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: ------ Building 6 action(s) started ------
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: [1/6] Compile [x64] FortressGoblin.init.gen.cpp
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: [2/6] Compile [x64] GoblinGameModeBase.cpp
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: [3/6] Compile [x64] GoblinGameModeBase.gen.cpp
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: [4/6] Link [x64] UnrealEditor-FortressGoblin-1150.lib
+[2024.07.22-00.53.41:715][482]CompilerResultsLog:    Creating library C:\Users\s220297\Documents\FortressGameJam\FortressGoblin\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortressGoblin\UnrealEditor-FortressGoblin-1150.lib and object C:\Users\s220297\Documents\FortressGameJam\FortressGoblin\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortressGoblin\UnrealEditor-FortressGoblin-1150.exp
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: [5/6] Link [x64] UnrealEditor-FortressGoblin-1150.dll
+[2024.07.22-00.53.41:715][482]CompilerResultsLog:    Creating library C:\Users\s220297\Documents\FortressGameJam\FortressGoblin\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortressGoblin\UnrealEditor-FortressGoblin-1150.sup.lib and object C:\Users\s220297\Documents\FortressGameJam\FortressGoblin\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortressGoblin\UnrealEditor-FortressGoblin-1150.sup.exp
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: [6/6] WriteMetadata FortressGoblinEditor.target
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: Total time in Parallel executor: 1.33 seconds
+[2024.07.22-00.53.41:715][482]CompilerResultsLog: Total execution time: 4.44 seconds
+[2024.07.22-00.53.41:715][482]LogMainFrame: MainFrame: Module compiling took 4.629 seconds
+[2024.07.22-00.53.41:731][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.07.22-00.53.41:760][482]LogClass: UPackage /Script/FortressGoblin Reload.
+[2024.07.22-00.53.41:767][482]LogClass: Could not find existing class GoblinGameModeBase in package /Script/FortressGoblin for reload, assuming new or modified class
+[2024.07.22-00.53.41:885][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.07.22-00.53.41:916][482]Display: HotReload took  4.8s.
+[2024.07.22-00.53.41:916][482]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 3 classes unchanged
+[2024.07.22-00.53.41:929][482]Warning: HotReload operation took  4.9s.
+[2024.07.22-00.53.42:045][482]LogSlate: Window 'Add C++ Class' being destroyed
+[2024.07.22-00.53.42:525][482]LogAutomationController: Ignoring very large delta of 11.87 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.22-00.53.42:528][483]LogHotReload: New module detected: UnrealEditor-FortressGoblin-1150.dll
+[2024.07.22-00.53.42:541][484]LogHotReload: Starting Hot-Reload from IDE
+[2024.07.22-00.53.42:767][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.07.22-00.53.42:811][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.07.22-00.53.42:849][484]Display: HotReload took  0.3s.
+[2024.07.22-00.53.42:849][484]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.07.22-00.54.18:669][327]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GameModes/BP_GoblinGameModeBase.BP_GoblinGameModeBase
+[2024.07.22-00.54.18:669][327]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-00.54.18:669][327]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-00.54.18:746][327]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2024.07.22-00.54.18:857][327]LogViewport: Scene viewport resized to 986x875, mode Windowed.
+[2024.07.22-00.54.23:371][724]LogSlate: Window 'Content Browser' being destroyed
+[2024.07.22-00.54.23:384][724]LogSlate: Window 'Content Browser' being destroyed
+[2024.07.22-00.54.54:489][781]LogSlate: Window 'Project Settings' being destroyed
+[2024.07.22-00.54.54:492][781]LogSlate: Window 'Project Settings' being destroyed
+[2024.07.22-00.55.05:837][953]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.22-00.55.05:842][953]LogContentBundle: [RhysKouttsTestScene(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.22-00.55.05:842][953]LogWorldPartition: Display: GenerateStreaming for 'RhysKouttsTestScene' started...
+[2024.07.22-00.55.05:843][953]LogWorldPartition: Display: GenerateStreaming for 'RhysKouttsTestScene' took 1 ms (total: 9 ms)
+[2024.07.22-00.55.05:844][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.22-00.55.05:844][953]PIE: New page: PIE session: RhysKouttsTestScene (22 Jul 2024, 8:55:05 pm)
+[2024.07.22-00.55.05:866][953]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_RhysKouttsTestScene
+[2024.07.22-00.55.05:870][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003543s)
+[2024.07.22-00.55.05:870][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/RhysKouttsTestScene.RhysKouttsTestScene to /Game/Scenes/UEDPIE_0_RhysKouttsTestScene.RhysKouttsTestScene (0.003580s)
+[2024.07.22-00.55.05:923][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.07.22-00.55.05:924][953]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-00.55.05:925][953]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-00.55.05:925][953]LogAIModule: Creating AISystem for world RhysKouttsTestScene
+[2024.07.22-00.55.05:925][953]LogWorldPartition: ULevel::OnLevelLoaded(RhysKouttsTestScene)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.22-00.55.05:925][953]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.22-00.55.05:925][953]LogWorldPartition: UWorldPartition::Initialize : World = RhysKouttsTestScene, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.22-00.55.05:925][953]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.22-00.55.05:926][953]LogContentBundle: [RhysKouttsTestScene(Standalone)] Creating new contrainer.
+[2024.07.22-00.55.05:926][953]LogWorldPartition: Display: WorldPartition initialize took 977 us (total: 131 ms)
+[2024.07.22-00.55.05:926][953]LogPlayLevel: PIE: World Init took: (0.002025s)
+[2024.07.22-00.55.05:926][953]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.07.22-00.55.05:926][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.22-00.55.05:926][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.22-00.55.05:926][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.22-00.55.05:926][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.22-00.55.05:926][953]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.22-00.55.05:926][953]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.22-00.55.05:926][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.22-00.55.05:926][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.22-00.55.05:927][953]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.22-00.55.05:927][953]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.22-00.55.05:927][953]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.22-00.55.05:929][953]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.22-00.55.05:941][953]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2024.07.22-00.55.05:942][953]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.22-00.55.05:942][953]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.22-00.55.05:942][953]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.22-00.55.05:942][953]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.07.22-00.55.05:942][953]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.07.22-00.55.05:944][953]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.07.22-00.55.05:944][953]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.07.22-00.55.05:944][953]LogInit: FAudioDevice initialized with ID 5.
+[2024.07.22-00.55.05:944][953]LogAudio: Display: Audio Device (ID: 5) registered with world 'RhysKouttsTestScene'.
+[2024.07.22-00.55.05:944][953]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.07.22-00.55.05:948][953]LogLoad: Game class is 'FortressGoblinGameMode'
+[2024.07.22-00.55.05:949][953]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_RhysKouttsTestScene.RhysKouttsTestScene up for play (max tick rate 0) at 2024.07.22-10.55.05
+[2024.07.22-00.55.05:949][953]LogWorld: Bringing up level for play took: 0.001535
+[2024.07.22-00.55.05:951][953]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.07.22-00.55.05:955][953]PIE: Server logged in
+[2024.07.22-00.55.05:955][953]PIE: Play in editor total start time 0.114 seconds.
+[2024.07.22-00.55.07:907][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-00.55.07:907][140]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_RhysKouttsTestScene
+[2024.07.22-00.55.07:907][140]LogWorld: UWorld::CleanupWorld for RhysKouttsTestScene, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-00.55.07:907][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-00.55.07:908][140]LogContentBundle: [RhysKouttsTestScene(Standalone)] Deleting container.
+[2024.07.22-00.55.07:911][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.22-00.55.07:915][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-00.55.07:930][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-00.55.07:931][140]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.07.22-00.55.07:931][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.07.22-00.55.07:933][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.07.22-00.55.07:939][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.07.22-00.55.08:014][141]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.07.22-00.55.13:968][650]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.22-00.55.13:973][650]LogContentBundle: [RhysKouttsTestScene(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.22-00.55.13:973][650]LogWorldPartition: Display: GenerateStreaming for 'RhysKouttsTestScene' started...
+[2024.07.22-00.55.13:974][650]LogWorldPartition: Display: GenerateStreaming for 'RhysKouttsTestScene' took 1 ms (total: 11 ms)
+[2024.07.22-00.55.13:974][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.22-00.55.13:975][650]PIE: New page: PIE session: RhysKouttsTestScene (22 Jul 2024, 8:55:13 pm)
+[2024.07.22-00.55.13:996][650]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_RhysKouttsTestScene
+[2024.07.22-00.55.13:999][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003486s)
+[2024.07.22-00.55.13:999][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/RhysKouttsTestScene.RhysKouttsTestScene to /Game/Scenes/UEDPIE_0_RhysKouttsTestScene.RhysKouttsTestScene (0.003526s)
+[2024.07.22-00.55.14:011][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.07.22-00.55.14:013][650]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-00.55.14:013][650]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-00.55.14:014][650]LogAIModule: Creating AISystem for world RhysKouttsTestScene
+[2024.07.22-00.55.14:014][650]LogWorldPartition: ULevel::OnLevelLoaded(RhysKouttsTestScene)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.22-00.55.14:014][650]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.22-00.55.14:014][650]LogWorldPartition: UWorldPartition::Initialize : World = RhysKouttsTestScene, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.22-00.55.14:014][650]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.22-00.55.14:015][650]LogContentBundle: [RhysKouttsTestScene(Standalone)] Creating new contrainer.
+[2024.07.22-00.55.14:015][650]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 133 ms)
+[2024.07.22-00.55.14:015][650]LogPlayLevel: PIE: World Init took: (0.002491s)
+[2024.07.22-00.55.14:015][650]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.07.22-00.55.14:015][650]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.22-00.55.14:015][650]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.22-00.55.14:015][650]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.22-00.55.14:015][650]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.22-00.55.14:015][650]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.22-00.55.14:015][650]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.22-00.55.14:015][650]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.22-00.55.14:015][650]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.22-00.55.14:016][650]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.22-00.55.14:016][650]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.22-00.55.14:016][650]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.22-00.55.14:019][650]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.22-00.55.14:030][650]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2024.07.22-00.55.14:031][650]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.22-00.55.14:031][650]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.22-00.55.14:031][650]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.22-00.55.14:031][650]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.07.22-00.55.14:031][650]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.07.22-00.55.14:033][650]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.07.22-00.55.14:033][650]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.07.22-00.55.14:033][650]LogInit: FAudioDevice initialized with ID 6.
+[2024.07.22-00.55.14:033][650]LogAudio: Display: Audio Device (ID: 6) registered with world 'RhysKouttsTestScene'.
+[2024.07.22-00.55.14:033][650]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.07.22-00.55.14:035][650]LogLoad: Game class is 'FortressGoblinGameMode'
+[2024.07.22-00.55.14:036][650]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_RhysKouttsTestScene.RhysKouttsTestScene up for play (max tick rate 0) at 2024.07.22-10.55.14
+[2024.07.22-00.55.14:036][650]LogWorld: Bringing up level for play took: 0.001454
+[2024.07.22-00.55.14:038][650]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.07.22-00.55.14:041][650]PIE: Server logged in
+[2024.07.22-00.55.14:042][650]PIE: Play in editor total start time 0.069 seconds.
+[2024.07.22-00.55.15:226][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-00.55.15:227][767]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_RhysKouttsTestScene
+[2024.07.22-00.55.15:227][767]LogWorld: UWorld::CleanupWorld for RhysKouttsTestScene, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-00.55.15:227][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-00.55.15:227][767]LogContentBundle: [RhysKouttsTestScene(Standalone)] Deleting container.
+[2024.07.22-00.55.15:229][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.22-00.55.15:233][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-00.55.15:249][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-00.55.15:249][767]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.07.22-00.55.15:249][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.07.22-00.55.15:250][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.07.22-00.55.15:256][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.07.22-00.55.15:324][768]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.07.22-00.56.17:868][891]LogSlate: External Image Picker: DecompressImage failed
+[2024.07.22-00.56.18:719][936]LogDerivedDataCache: C:/Users/s220297/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.057 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 562 files in 1036 folders with total size 34 MiB.
+[2024.07.22-00.56.31:537][850]LogSlate: Window 'Project Settings' being destroyed
+[2024.07.22-00.56.31:542][850]LogSlate: Window 'Project Settings' being destroyed
+[2024.07.22-01.01.25:287][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.07.22-01.01.25:291][306]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/RhysKouttsTestScene' took 0.021
+[2024.07.22-01.01.25:292][306]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameModes/BP_GoblinGameModeBase] ([2] browsable assets)...
+[2024.07.22-01.01.25:292][306]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameModes/BP_GoblinGameModeBase]
+[2024.07.22-01.01.25:294][306]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/GameModes/BP_GoblinGameModeBase.BP_GoblinGameModeBase_C' for saving '/Game/Blueprints/GameModes/BP_GoblinGameModeBase.BP_GoblinGameModeBase_C'
+[2024.07.22-01.01.25:294][306]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/GameModes/BP_GoblinGameModeBase.BP_GoblinGameModeBase_C' for saving '/Game/Blueprints/GameModes/BP_GoblinGameModeBase.BP_GoblinGameModeBase_C'
+[2024.07.22-01.01.25:294][306]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/GameModes/BP_GoblinGameModeBase_Auto4
+[2024.07.22-01.01.25:294][306]LogSavePackage: Moving '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/BP_GoblinGameModeBase_Auto42E47734A43F9ECA61C11618FA0574871.tmp' to '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/Autosaves/Game/Blueprints/GameModes/BP_GoblinGameModeBase_Auto4.uasset'
+[2024.07.22-01.01.25:295][306]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.07.22-01.12.43:056][567]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.22-01.12.43:060][567]LogContentBundle: [RhysKouttsTestScene(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.22-01.12.43:060][567]LogWorldPartition: Display: GenerateStreaming for 'RhysKouttsTestScene' started...
+[2024.07.22-01.12.43:061][567]LogWorldPartition: Display: GenerateStreaming for 'RhysKouttsTestScene' took 1 ms (total: 12 ms)
+[2024.07.22-01.12.43:061][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.22-01.12.43:061][567]PIE: New page: PIE session: RhysKouttsTestScene (22 Jul 2024, 9:12:43 pm)
+[2024.07.22-01.12.43:062][567]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_RhysKouttsTestScene
+[2024.07.22-01.12.43:065][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003642s)
+[2024.07.22-01.12.43:065][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/RhysKouttsTestScene.RhysKouttsTestScene to /Game/Scenes/UEDPIE_0_RhysKouttsTestScene.RhysKouttsTestScene (0.003676s)
+[2024.07.22-01.12.43:080][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.07.22-01.12.43:081][567]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-01.12.43:081][567]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-01.12.43:081][567]LogAIModule: Creating AISystem for world RhysKouttsTestScene
+[2024.07.22-01.12.43:082][567]LogWorldPartition: ULevel::OnLevelLoaded(RhysKouttsTestScene)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.22-01.12.43:082][567]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.22-01.12.43:082][567]LogWorldPartition: UWorldPartition::Initialize : World = RhysKouttsTestScene, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.22-01.12.43:082][567]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.22-01.12.43:083][567]LogContentBundle: [RhysKouttsTestScene(Standalone)] Creating new contrainer.
+[2024.07.22-01.12.43:083][567]LogWorldPartition: Display: WorldPartition initialize took 962 us (total: 133 ms)
+[2024.07.22-01.12.43:083][567]LogPlayLevel: PIE: World Init took: (0.002059s)
+[2024.07.22-01.12.43:083][567]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.07.22-01.12.43:083][567]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.22-01.12.43:083][567]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.22-01.12.43:083][567]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.22-01.12.43:083][567]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.22-01.12.43:083][567]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.22-01.12.43:083][567]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.22-01.12.43:083][567]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.22-01.12.43:083][567]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.22-01.12.43:084][567]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.22-01.12.43:084][567]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.22-01.12.43:084][567]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.22-01.12.43:086][567]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.22-01.12.43:099][567]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2024.07.22-01.12.43:099][567]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.22-01.12.43:099][567]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.22-01.12.43:099][567]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.22-01.12.43:100][567]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.07.22-01.12.43:100][567]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.07.22-01.12.43:102][567]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.07.22-01.12.43:102][567]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.07.22-01.12.43:102][567]LogInit: FAudioDevice initialized with ID 7.
+[2024.07.22-01.12.43:102][567]LogAudio: Display: Audio Device (ID: 7) registered with world 'RhysKouttsTestScene'.
+[2024.07.22-01.12.43:102][567]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.07.22-01.12.43:104][567]LogLoad: Game class is 'FortressGoblinGameMode'
+[2024.07.22-01.12.43:106][567]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_RhysKouttsTestScene.RhysKouttsTestScene up for play (max tick rate 0) at 2024.07.22-11.12.43
+[2024.07.22-01.12.43:106][567]LogWorld: Bringing up level for play took: 0.001552
+[2024.07.22-01.12.43:107][567]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.07.22-01.12.43:111][567]PIE: Server logged in
+[2024.07.22-01.12.43:112][567]PIE: Play in editor total start time 0.052 seconds.
+[2024.07.22-01.12.44:662][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-01.12.44:662][724]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_RhysKouttsTestScene
+[2024.07.22-01.12.44:662][724]LogWorld: UWorld::CleanupWorld for RhysKouttsTestScene, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-01.12.44:663][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-01.12.44:663][724]LogContentBundle: [RhysKouttsTestScene(Standalone)] Deleting container.
+[2024.07.22-01.12.44:666][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.22-01.12.44:670][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-01.12.44:686][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-01.12.44:686][724]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.07.22-01.12.44:686][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.07.22-01.12.44:690][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.07.22-01.12.44:695][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.07.22-01.12.44:748][725]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.07.22-01.12.45:718][814]BlueprintLog: New page: Compile BP_TopDownChar
+[2024.07.22-01.12.45:803][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.07.22-01.12.58:095][889]LogHotReload: New module detected: UnrealEditor-FortressGoblin-0003.dll
+[2024.07.22-01.12.59:102][893]LogHotReload: Starting Hot-Reload from IDE
+[2024.07.22-01.12.59:161][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.07.22-01.12.59:188][893]LogClass: UPackage /Script/FortressGoblin Reload.
+[2024.07.22-01.12.59:305][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.07.22-01.12.59:344][893]Display: HotReload took  0.2s.
+[2024.07.22-01.12.59:344][893]Display: Reload/Re-instancing Complete: 1 package changed, 4 classes unchanged
+[2024.07.22-01.13.02:610][957]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.22-01.13.02:614][957]LogContentBundle: [RhysKouttsTestScene(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.07.22-01.13.02:614][957]LogWorldPartition: Display: GenerateStreaming for 'RhysKouttsTestScene' started...
+[2024.07.22-01.13.02:615][957]LogWorldPartition: Display: GenerateStreaming for 'RhysKouttsTestScene' took 1 ms (total: 13 ms)
+[2024.07.22-01.13.02:615][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.22-01.13.02:616][957]PIE: New page: PIE session: RhysKouttsTestScene (22 Jul 2024, 9:13:02 pm)
+[2024.07.22-01.13.02:616][957]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_RhysKouttsTestScene
+[2024.07.22-01.13.02:619][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003443s)
+[2024.07.22-01.13.02:619][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/RhysKouttsTestScene.RhysKouttsTestScene to /Game/Scenes/UEDPIE_0_RhysKouttsTestScene.RhysKouttsTestScene (0.003470s)
+[2024.07.22-01.13.02:675][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.07.22-01.13.02:678][957]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-01.13.02:678][957]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-01.13.02:679][957]LogAIModule: Creating AISystem for world RhysKouttsTestScene
+[2024.07.22-01.13.02:679][957]LogWorldPartition: ULevel::OnLevelLoaded(RhysKouttsTestScene)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.07.22-01.13.02:679][957]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.22-01.13.02:679][957]LogWorldPartition: UWorldPartition::Initialize : World = RhysKouttsTestScene, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.22-01.13.02:679][957]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.07.22-01.13.02:680][957]LogContentBundle: [RhysKouttsTestScene(Standalone)] Creating new contrainer.
+[2024.07.22-01.13.02:680][957]LogWorldPartition: Display: WorldPartition initialize took 989 us (total: 134 ms)
+[2024.07.22-01.13.02:680][957]LogPlayLevel: PIE: World Init took: (0.002019s)
+[2024.07.22-01.13.02:680][957]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.07.22-01.13.02:680][957]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.22-01.13.02:680][957]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.22-01.13.02:680][957]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.22-01.13.02:680][957]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.22-01.13.02:680][957]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.22-01.13.02:680][957]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.22-01.13.02:680][957]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.22-01.13.02:680][957]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.22-01.13.02:681][957]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.22-01.13.02:681][957]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.22-01.13.02:681][957]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.22-01.13.02:683][957]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.22-01.13.02:694][957]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2024.07.22-01.13.02:694][957]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.22-01.13.02:694][957]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.22-01.13.02:694][957]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.22-01.13.02:695][957]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.07.22-01.13.02:695][957]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.07.22-01.13.02:696][957]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.07.22-01.13.02:696][957]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.07.22-01.13.02:696][957]LogInit: FAudioDevice initialized with ID 8.
+[2024.07.22-01.13.02:696][957]LogAudio: Display: Audio Device (ID: 8) registered with world 'RhysKouttsTestScene'.
+[2024.07.22-01.13.02:696][957]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.07.22-01.13.02:699][957]LogLoad: Game class is 'FortressGoblinGameMode'
+[2024.07.22-01.13.02:700][957]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_RhysKouttsTestScene.RhysKouttsTestScene up for play (max tick rate 0) at 2024.07.22-11.13.02
+[2024.07.22-01.13.02:700][957]LogWorld: Bringing up level for play took: 0.001470
+[2024.07.22-01.13.02:702][957]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.07.22-01.13.02:705][957]PIE: Server logged in
+[2024.07.22-01.13.02:706][957]PIE: Play in editor total start time 0.093 seconds.
+[2024.07.22-01.13.08:282][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-01.13.08:282][495]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_RhysKouttsTestScene
+[2024.07.22-01.13.08:282][495]LogWorld: UWorld::CleanupWorld for RhysKouttsTestScene, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-01.13.08:282][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-01.13.08:282][495]LogContentBundle: [RhysKouttsTestScene(Standalone)] Deleting container.
+[2024.07.22-01.13.08:285][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.22-01.13.08:290][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-01.13.08:303][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-01.13.08:304][495]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.07.22-01.13.08:304][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.22-01.13.08:305][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.22-01.13.08:332][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.07.22-01.13.08:410][496]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.07.22-01.13.39:859][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.07.22-01.13.42:556][229]LogSlate: Window 'Save Content' being destroyed
+[2024.07.22-01.13.42:563][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.22-01.13.42:614][229]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/GameModes/BP_GoblinGameModeBase.BP_GoblinGameModeBase_C' for saving '/Game/Blueprints/GameModes/BP_GoblinGameModeBase.BP_GoblinGameModeBase_C'
+[2024.07.22-01.13.42:615][229]LogWorldPartition: Can't find class descriptor '/Game/Blueprints/GameModes/BP_GoblinGameModeBase.BP_GoblinGameModeBase_C' for saving '/Game/Blueprints/GameModes/BP_GoblinGameModeBase.BP_GoblinGameModeBase_C'
+[2024.07.22-01.13.42:615][229]LogSavePackage: Moving output files for package: /Game/Blueprints/GameModes/BP_GoblinGameModeBase
+[2024.07.22-01.13.42:615][229]LogSavePackage: Moving '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/BP_GoblinGameModeBase6C4CD0F244AA4E697601FA92D8497CB4.tmp' to '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Blueprints/GameModes/BP_GoblinGameModeBase.uasset'
+[2024.07.22-01.13.42:622][229]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.07.22-01.13.42:623][229]LogSavePackage: Moving '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/BP_ThirdPersonCharacterFB429152448A362F17C7B7A53E6D40CF.tmp' to '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.07.22-01.13.42:625][229]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Scenes/RhysKouttsTestScene/6/05/DUHG2MYY0GTNJS3OR32T62
+[2024.07.22-01.13.42:626][229]LogSavePackage: Moving '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/DUHG2MYY0GTNJS3OR32T62CC247ED14BEED801433A0FAAFC069F29.tmp' to '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/__ExternalActors__/Scenes/RhysKouttsTestScene/6/05/DUHG2MYY0GTNJS3OR32T62.uasset'
+[2024.07.22-01.13.42:631][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 277 ms)
+[2024.07.22-01.13.42:681][229]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-01.13.42:683][229]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/OscarTestScene.OscarTestScene
+[2024.07.22-01.13.42:683][229]Cmd: MAP LOAD FILE="../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Scenes/OscarTestScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.22-01.13.42:683][229]LightingResults: New page: Lighting Build
+[2024.07.22-01.13.42:685][229]LoadErrors: New page: Loading map: OscarTestScene.umap
+[2024.07.22-01.13.42:744][229]LogWorld: UWorld::CleanupWorld for RhysKouttsTestScene, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-01.13.42:744][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-01.13.42:745][229]LogContentBundle: [RhysKouttsTestScene(Standalone)] Deleting container.
+[2024.07.22-01.13.42:745][229]MapCheck: New page: Map Check
+[2024.07.22-01.13.42:745][229]LightingResults: New page: Lighting Build
+[2024.07.22-01.13.42:756][229]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.22-01.13.42:760][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.07.22-01.13.42:762][229]LogWorld: UWorld::CleanupWorld for OscarTestScene, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-01.13.42:762][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-01.13.42:777][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.07.22-01.13.42:791][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.07.22-01.13.42:794][229]LogAudio: Display: Audio Device (ID: 1) registered with world 'OscarTestScene'.
+[2024.07.22-01.13.42:794][229]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-01.13.42:794][229]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-01.13.42:794][229]LogAIModule: Creating AISystem for world OscarTestScene
+[2024.07.22-01.13.42:812][229]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.22-01.13.42:828][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.07.22-01.13.42:831][229]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.22-01.13.42:832][229]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.108ms to complete.
+[2024.07.22-01.13.42:846][229]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.22-01.13.42:846][229]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/GameModes/BP_GoblinGameModeBase.BP_GoblinGameModeBase
+[2024.07.22-01.13.42:846][229]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.07.22-01.13.42:865][230]LogAutomationController: Ignoring very large delta of 3.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.22-01.13.44:963][387]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.07.22-01.13.46:698][499]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.22-01.13.46:703][499]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.22-01.13.46:703][499]PIE: New page: PIE session: OscarTestScene (22 Jul 2024, 9:13:46 pm)
+[2024.07.22-01.13.46:732][499]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_OscarTestScene
+[2024.07.22-01.13.46:733][499]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001666s)
+[2024.07.22-01.13.46:733][499]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/OscarTestScene.OscarTestScene to /Game/Scenes/UEDPIE_0_OscarTestScene.OscarTestScene (0.001708s)
+[2024.07.22-01.13.46:748][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.07.22-01.13.46:750][499]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-01.13.46:750][499]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-01.13.46:750][499]LogAIModule: Creating AISystem for world OscarTestScene
+[2024.07.22-01.13.46:751][499]LogPlayLevel: PIE: World Init took: (0.001113s)
+[2024.07.22-01.13.46:751][499]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.07.22-01.13.46:751][499]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.22-01.13.46:751][499]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.22-01.13.46:751][499]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.22-01.13.46:751][499]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.22-01.13.46:751][499]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.22-01.13.46:751][499]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.22-01.13.46:751][499]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.22-01.13.46:751][499]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.22-01.13.46:752][499]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.22-01.13.46:752][499]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.22-01.13.46:752][499]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.22-01.13.46:754][499]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.22-01.13.46:765][499]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2024.07.22-01.13.46:765][499]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.22-01.13.46:765][499]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.22-01.13.46:765][499]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.22-01.13.46:766][499]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.07.22-01.13.46:766][499]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.07.22-01.13.46:768][499]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.07.22-01.13.46:768][499]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.07.22-01.13.46:768][499]LogInit: FAudioDevice initialized with ID 9.
+[2024.07.22-01.13.46:768][499]LogAudio: Display: Audio Device (ID: 9) registered with world 'OscarTestScene'.
+[2024.07.22-01.13.46:768][499]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.07.22-01.13.46:769][499]LogLoad: Game class is 'BP_GoblinGameModeBase_C'
+[2024.07.22-01.13.46:770][499]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_OscarTestScene.OscarTestScene up for play (max tick rate 0) at 2024.07.22-11.13.46
+[2024.07.22-01.13.46:770][499]LogWorld: Bringing up level for play took: 0.000518
+[2024.07.22-01.13.46:772][499]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.07.22-01.13.46:773][499]PIE: Server logged in
+[2024.07.22-01.13.46:773][499]PIE: Play in editor total start time 0.07 seconds.
+[2024.07.22-01.13.48:642][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-01.13.48:642][686]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_OscarTestScene
+[2024.07.22-01.13.48:642][686]LogWorld: UWorld::CleanupWorld for OscarTestScene, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-01.13.48:642][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-01.13.48:645][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.22-01.13.48:649][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-01.13.48:658][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-01.13.48:659][686]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.07.22-01.13.48:659][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.07.22-01.13.48:660][686]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.07.22-01.13.48:667][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.07.22-01.13.48:735][687]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.07.22-01.14.03:481][733]LogContentBrowser: Deferred new asset file creation: OscarTestScene1
+[2024.07.22-01.14.03:491][733]LogContentBrowser: Creating deferred item: OscarTestScene1
+[2024.07.22-01.14.03:506][734]LogContentBrowser: Renaming the item being created (Deferred Item: OscarTestScene1).
+[2024.07.22-01.14.08:258][157]LogContentBrowser: Attempting asset rename: OscarTestScene1 -> RhysKoutts
+[2024.07.22-01.14.08:261][157]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-01.14.08:263][157]LogContentBrowser: End creating deferred item OscarTestScene1
+[2024.07.22-01.14.11:302][411]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-01.14.11:302][411]LogWorldPartition: ULevel::OnLevelLoaded(RhysKouttsTestScene)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2024.07.22-01.14.11:302][411]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.07.22-01.14.11:302][411]LogWorldPartition: UWorldPartition::Initialize : World = RhysKouttsTestScene, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.07.22-01.14.11:304][411]LogContentBundle: [RhysKouttsTestScene(Standalone)] Creating new contrainer.
+[2024.07.22-01.14.11:304][411]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 136 ms)
+[2024.07.22-01.14.11:312][411]LogObjectTools: Deleting 1 worlds: /Game/Scenes/RhysKouttsTestScene.RhysKouttsTestScene
+[2024.07.22-01.14.11:312][411]LogObjectTools: Currently 10 active worlds: /Game/Scenes/OscarTestScene.OscarTestScene, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_6, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10
+[2024.07.22-01.14.11:328][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.07.22-01.14.14:897][411]LogSlate: Window 'Delete Assets' being destroyed
+[2024.07.22-01.14.14:901][411]LogWorld: UWorld::CleanupWorld for RhysKouttsTestScene, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-01.14.14:901][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-01.14.14:901][411]LogContentBundle: [RhysKouttsTestScene(Standalone)] Deleting container.
+[2024.07.22-01.14.14:932][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.07.22-01.14.14:945][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.07.22-01.14.14:958][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.07.22-01.14.14:972][411]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Scenes/RhysKouttsTestScene does not exist, will not scan.
+[2024.07.22-01.14.14:988][411]LogAutomationController: Ignoring very large delta of 3.87 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.22-01.14.17:975][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.07.22-01.14.20:334][652]LogSlate: Window 'Save Content' being destroyed
+[2024.07.22-01.14.20:342][652]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.22-01.14.20:396][652]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-01.14.20:410][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.07.22-01.14.20:418][652]LogSavePackage: Moving output files for package: /Game/Scenes/RhysKoutts
+[2024.07.22-01.14.20:418][652]LogSavePackage: Moving '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/RhysKoutts97C95DAA40038F985E72B5A9F30BA03A.tmp' to '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Scenes/RhysKoutts.umap'
+[2024.07.22-01.14.20:425][652]LogFileHelpers: Saving map 'RhysKoutts' took 0.029
+[2024.07.22-01.14.20:430][652]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 364 ms)
+[2024.07.22-01.14.20:430][652]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Scenes/RhysKoutts.RhysKoutts
+[2024.07.22-01.14.20:430][652]Cmd: MAP LOAD FILE="../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Scenes/RhysKoutts.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.07.22-01.14.20:430][652]LightingResults: New page: Lighting Build
+[2024.07.22-01.14.20:430][652]LoadErrors: New page: Loading map: RhysKoutts.umap
+[2024.07.22-01.14.20:451][652]LogWorld: UWorld::CleanupWorld for OscarTestScene, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-01.14.20:451][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-01.14.20:451][652]MapCheck: New page: Map Check
+[2024.07.22-01.14.20:451][652]LightingResults: New page: Lighting Build
+[2024.07.22-01.14.20:463][652]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.22-01.14.20:465][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.07.22-01.14.20:467][652]LogWorld: UWorld::CleanupWorld for RhysKoutts, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-01.14.20:467][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-01.14.20:482][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.07.22-01.14.20:497][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.07.22-01.14.20:500][652]LogAudio: Display: Audio Device (ID: 1) registered with world 'RhysKoutts'.
+[2024.07.22-01.14.20:500][652]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-01.14.20:500][652]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-01.14.20:501][652]LogAIModule: Creating AISystem for world RhysKoutts
+[2024.07.22-01.14.20:513][652]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.22-01.14.20:530][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.07.22-01.14.20:532][652]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.22-01.14.20:533][652]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2024.07.22-01.14.20:540][652]AssetCheck: New page: Asset Save: RhysKoutts
+[2024.07.22-01.14.20:540][652]LogContentValidation: Display: Validating /Script/Engine.World /Game/Scenes/RhysKoutts.RhysKoutts
+[2024.07.22-01.14.20:555][653]LogAutomationController: Ignoring very large delta of 2.59 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.07.22-01.14.23:998][907]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.22-01.14.24:004][907]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.22-01.14.24:004][907]PIE: New page: PIE session: RhysKoutts (22 Jul 2024, 9:14:24 pm)
+[2024.07.22-01.14.24:004][907]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_RhysKoutts
+[2024.07.22-01.14.24:006][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001668s)
+[2024.07.22-01.14.24:006][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/RhysKoutts.RhysKoutts to /Game/Scenes/UEDPIE_0_RhysKoutts.RhysKoutts (0.001706s)
+[2024.07.22-01.14.24:022][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.07.22-01.14.24:023][907]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-01.14.24:023][907]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-01.14.24:023][907]LogAIModule: Creating AISystem for world RhysKoutts
+[2024.07.22-01.14.24:024][907]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2024.07.22-01.14.24:024][907]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.07.22-01.14.24:024][907]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.22-01.14.24:024][907]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.22-01.14.24:024][907]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.22-01.14.24:024][907]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.22-01.14.24:024][907]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.22-01.14.24:024][907]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.22-01.14.24:024][907]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.22-01.14.24:024][907]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.22-01.14.24:024][907]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.22-01.14.24:024][907]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.22-01.14.24:024][907]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.22-01.14.24:026][907]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.22-01.14.24:038][907]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2024.07.22-01.14.24:038][907]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.22-01.14.24:038][907]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.22-01.14.24:038][907]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.22-01.14.24:038][907]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.07.22-01.14.24:038][907]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.07.22-01.14.24:040][907]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.07.22-01.14.24:040][907]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.07.22-01.14.24:040][907]LogInit: FAudioDevice initialized with ID 10.
+[2024.07.22-01.14.24:040][907]LogAudio: Display: Audio Device (ID: 10) registered with world 'RhysKoutts'.
+[2024.07.22-01.14.24:040][907]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.07.22-01.14.24:043][907]LogLoad: Game class is 'BP_GoblinGameModeBase_C'
+[2024.07.22-01.14.24:043][907]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_RhysKoutts.RhysKoutts up for play (max tick rate 0) at 2024.07.22-11.14.24
+[2024.07.22-01.14.24:043][907]LogWorld: Bringing up level for play took: 0.000500
+[2024.07.22-01.14.24:045][907]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.07.22-01.14.24:046][907]PIE: Server logged in
+[2024.07.22-01.14.24:047][907]PIE: Play in editor total start time 0.043 seconds.
+[2024.07.22-01.14.29:561][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-01.14.29:561][515]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_RhysKoutts
+[2024.07.22-01.14.29:561][515]LogWorld: UWorld::CleanupWorld for RhysKoutts, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-01.14.29:561][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-01.14.29:564][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.22-01.14.29:568][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-01.14.29:582][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-01.14.29:582][515]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.07.22-01.14.29:582][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.07.22-01.14.29:584][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.07.22-01.14.29:589][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.07.22-01.14.29:650][519]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.07.22-01.17.30:727][435]LogSlate: External Image Picker: DecompressImage failed
+[2024.07.22-01.21.28:492][877]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Scenes/RhysKouttsTestScene does not exist, will not scan.
+[2024.07.22-01.23.55:271][ 16]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.07.22-01.23.55:291][ 16]LogContentBrowser: Creating deferred item: NewFolder
+[2024.07.22-01.23.55:298][ 17]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.07.22-01.24.03:035][923]LogContentBrowser: Attempting asset rename: NewFolder -> Inputs
+[2024.07.22-01.24.03:036][923]LogContentBrowser: End creating deferred item NewFolder
+[2024.07.22-01.24.53:189][737]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Inputs/IMC_Default.IMC_Default
+[2024.07.22-01.25.07:970][402]BlueprintLog: New page: Compile BP_GoblinGameModeBase
+[2024.07.22-01.25.08:001][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.07.22-01.25.19:463][489]LogContentBrowser: Attempting asset rename: IMC_Default -> IMC_Default
+[2024.07.22-01.25.35:520][980]LogContentBrowser: Attempting asset rename: IMC_Default -> IMC_GoblinController
+[2024.07.22-01.25.35:559][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.22-01.25.35:615][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/IMC_GoblinController" FILE="../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/IMC_GoblinController.uasset" SILENT=true
+[2024.07.22-01.25.35:617][980]LogSavePackage: Moving output files for package: /Game/Inputs/IMC_GoblinController
+[2024.07.22-01.25.35:617][980]LogSavePackage: Moving '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/IMC_GoblinControllerED376EE246583944D8797187E57B3EC4.tmp' to '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/IMC_GoblinController.uasset'
+[2024.07.22-01.25.35:623][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 429 ms)
+[2024.07.22-01.25.35:644][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.07.22-01.25.35:659][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.07.22-01.25.35:673][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.07.22-01.25.35:674][980]AssetCheck: New page: Asset Save: IMC_GoblinController
+[2024.07.22-01.25.35:674][980]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Inputs/IMC_GoblinController.IMC_GoblinController
+[2024.07.22-01.25.39:968][354]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Inputs/IMC_GoblinController.IMC_GoblinController
+[2024.07.22-01.26.04:425][ 89]LogContentBrowser: Attempting asset rename: IA_Jump -> IA_Jump
+[2024.07.22-01.26.10:752][770]LogContentBrowser: Attempting asset rename: IA_Jump -> IA_GoblinJump
+[2024.07.22-01.26.10:779][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.22-01.26.10:815][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/IA_GoblinJump" FILE="../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/IA_GoblinJump.uasset" SILENT=true
+[2024.07.22-01.26.10:815][770]LogSavePackage: Moving output files for package: /Game/Inputs/IA_GoblinJump
+[2024.07.22-01.26.10:815][770]LogSavePackage: Moving '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/IA_GoblinJump33D0EF35401E0C78191E7BB9FD13C3FF.tmp' to '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/IA_GoblinJump.uasset'
+[2024.07.22-01.26.10:821][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 471 ms)
+[2024.07.22-01.26.10:843][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.07.22-01.26.10:859][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.07.22-01.26.10:873][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.07.22-01.26.10:875][770]AssetCheck: New page: Asset Save: IA_GoblinJump
+[2024.07.22-01.26.10:875][770]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Inputs/IA_GoblinJump.IA_GoblinJump
+[2024.07.22-01.26.17:377][461]LogContentBrowser: Attempting asset rename: IA_Move -> IA_GoblinMove
+[2024.07.22-01.26.17:406][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.22-01.26.17:464][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/IA_GoblinMove" FILE="../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/IA_GoblinMove.uasset" SILENT=true
+[2024.07.22-01.26.17:465][461]LogSavePackage: Moving output files for package: /Game/Inputs/IA_GoblinMove
+[2024.07.22-01.26.17:465][461]LogSavePackage: Moving '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/IA_GoblinMoveBE265C0847D68F0C2B28CDA6A97AB1C4.tmp' to '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/IA_GoblinMove.uasset'
+[2024.07.22-01.26.17:470][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 536 ms)
+[2024.07.22-01.26.17:491][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.07.22-01.26.17:506][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.07.22-01.26.17:520][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.07.22-01.26.17:521][461]AssetCheck: New page: Asset Save: IA_GoblinMove
+[2024.07.22-01.26.17:521][461]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Inputs/IA_GoblinMove.IA_GoblinMove
+[2024.07.22-01.26.46:317][433]LogContentBrowser: Attempting asset rename: IA_Look -> IA_GoblinLook
+[2024.07.22-01.26.46:344][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.22-01.26.46:382][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/IA_GoblinLook" FILE="../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/IA_GoblinLook.uasset" SILENT=true
+[2024.07.22-01.26.46:382][433]LogSavePackage: Moving output files for package: /Game/Inputs/IA_GoblinLook
+[2024.07.22-01.26.46:382][433]LogSavePackage: Moving '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/IA_GoblinLookFC6E080E458C46C4F66186BD4E6B9BEF.tmp' to '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/IA_GoblinLook.uasset'
+[2024.07.22-01.26.46:388][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 579 ms)
+[2024.07.22-01.26.46:408][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.07.22-01.26.46:424][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.07.22-01.26.46:438][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.07.22-01.26.46:440][433]AssetCheck: New page: Asset Save: IA_GoblinLook
+[2024.07.22-01.26.46:440][433]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Inputs/IA_GoblinLook.IA_GoblinLook
+[2024.07.22-01.26.48:641][652]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.07.22-01.26.48:659][652]LogContentBrowser: Creating deferred item: NewFolder
+[2024.07.22-01.26.48:669][653]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.07.22-01.26.50:941][905]LogContentBrowser: Attempting asset rename: NewFolder -> Actions
+[2024.07.22-01.26.50:941][905]LogContentBrowser: End creating deferred item NewFolder
+[2024.07.22-01.26.55:126][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.22-01.26.55:182][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/Actions/IA_GoblinMove" FILE="../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/Actions/IA_GoblinMove.uasset" SILENT=true
+[2024.07.22-01.26.55:183][342]LogSavePackage: Moving output files for package: /Game/Inputs/Actions/IA_GoblinMove
+[2024.07.22-01.26.55:183][342]LogSavePackage: Moving '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/IA_GoblinMove6183BB8E4D458B912C3CA793AED0D054.tmp' to '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/Actions/IA_GoblinMove.uasset'
+[2024.07.22-01.26.55:184][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/Actions/IA_GoblinJump" FILE="../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/Actions/IA_GoblinJump.uasset" SILENT=true
+[2024.07.22-01.26.55:185][342]LogSavePackage: Moving output files for package: /Game/Inputs/Actions/IA_GoblinJump
+[2024.07.22-01.26.55:185][342]LogSavePackage: Moving '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/IA_GoblinJump355179584C030BF8BF612EA08ABF7427.tmp' to '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/Actions/IA_GoblinJump.uasset'
+[2024.07.22-01.26.55:186][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inputs/Actions/IA_GoblinLook" FILE="../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/Actions/IA_GoblinLook.uasset" SILENT=true
+[2024.07.22-01.26.55:186][342]LogSavePackage: Moving output files for package: /Game/Inputs/Actions/IA_GoblinLook
+[2024.07.22-01.26.55:186][342]LogSavePackage: Moving '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/IA_GoblinLook2CD06CD3435436E406CD39B3E4BDB3EE.tmp' to '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/Actions/IA_GoblinLook.uasset'
+[2024.07.22-01.26.55:192][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 644 ms)
+[2024.07.22-01.26.55:226][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.07.22-01.26.55:241][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.07.22-01.26.55:254][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.07.22-01.26.55:266][342]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.22-01.26.55:266][342]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Inputs/Actions/IA_GoblinMove.IA_GoblinMove
+[2024.07.22-01.26.55:266][342]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Inputs/Actions/IA_GoblinJump.IA_GoblinJump
+[2024.07.22-01.26.55:266][342]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/Inputs/Actions/IA_GoblinLook.IA_GoblinLook
+[2024.07.22-01.27.00:080][833]Candidate modules for hot reload:
+[2024.07.22-01.27.00:080][833]  FortressGoblin
+[2024.07.22-01.27.00:091][833]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.3/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=FortressGoblin,0463 FortressGoblinEditor Win64 Development -Project="C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/FortressGoblin.uproject" "C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/FortressGoblin.uproject"  -IgnoreJunk]
+[2024.07.22-01.27.00:095][833]Warning: Starting HotReload took  0.1s.
+[2024.07.22-01.27.02:083][989]CompilerResultsLog: New page: Compilation - 22 Jul 2024, 9:27:02 pm
+[2024.07.22-01.27.02:083][989]CompilerResultsLog: Using bundled DotNet SDK version: 6.0.302
+[2024.07.22-01.27.02:083][989]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=FortressGoblin,0463 FortressGoblinEditor Win64 Development -Project="C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/FortressGoblin.uproject" "C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/FortressGoblin.uproject"  -IgnoreJunk
+[2024.07.22-01.27.02:083][989]CompilerResultsLog: Log file: C:\Users\s220297\AppData\Local\UnrealBuildTool\Log.txt
+[2024.07.22-01.27.02:083][989]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\s220297\Documents\FortressGameJam).
+[2024.07.22-01.27.02:083][989]CompilerResultsLog: Building FortressGoblinEditor...
+[2024.07.22-01.27.02:083][989]CompilerResultsLog: Using Visual Studio 2022 14.34.31948 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2024.07.22-01.27.02:083][989]CompilerResultsLog: [Adaptive Build] Excluded from FortressGoblin unity file: GoblinGameModeBase.cpp, TopDownCharacter.cpp
+[2024.07.22-01.27.02:083][989]CompilerResultsLog: Determining max actions to execute in parallel (8 physical cores, 16 logical cores)
+[2024.07.22-01.27.02:083][989]CompilerResultsLog:   Executing up to 8 processes, one per physical core
+[2024.07.22-01.27.02:083][989]CompilerResultsLog: ------ Building 3 action(s) started ------
+[2024.07.22-01.27.02:083][989]CompilerResultsLog: [1/3] Link [x64] UnrealEditor-FortressGoblin-0463.lib
+[2024.07.22-01.27.02:083][989]CompilerResultsLog:    Creating library C:\Users\s220297\Documents\FortressGameJam\FortressGoblin\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortressGoblin\UnrealEditor-FortressGoblin-0463.lib and object C:\Users\s220297\Documents\FortressGameJam\FortressGoblin\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortressGoblin\UnrealEditor-FortressGoblin-0463.exp
+[2024.07.22-01.27.02:083][989]CompilerResultsLog: [2/3] Link [x64] UnrealEditor-FortressGoblin-0463.dll
+[2024.07.22-01.27.02:083][989]CompilerResultsLog:    Creating library C:\Users\s220297\Documents\FortressGameJam\FortressGoblin\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortressGoblin\UnrealEditor-FortressGoblin-0463.sup.lib and object C:\Users\s220297\Documents\FortressGameJam\FortressGoblin\Intermediate\Build\Win64\x64\UnrealEditor\Development\FortressGoblin\UnrealEditor-FortressGoblin-0463.sup.exp
+[2024.07.22-01.27.02:083][989]CompilerResultsLog: [3/3] WriteMetadata FortressGoblinEditor.target
+[2024.07.22-01.27.02:083][989]CompilerResultsLog: Total time in Parallel executor: 1.10 seconds
+[2024.07.22-01.27.02:083][989]CompilerResultsLog: Total execution time: 1.87 seconds
+[2024.07.22-01.27.02:083][989]LogMainFrame: MainFrame: Module compiling took 2.019 seconds
+[2024.07.22-01.27.02:099][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.07.22-01.27.02:260][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.07.22-01.27.02:289][989]Display: HotReload took  2.3s.
+[2024.07.22-01.27.02:289][989]Display: Reload/Re-instancing Complete: 1 package changed, 4 classes unchanged
+[2024.07.22-01.27.25:992][458]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Inputs/Actions/IA_GoblinLook.IA_GoblinLook
+[2024.07.22-01.27.51:929][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.07.22-01.27.51:930][858]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scenes/RhysKoutts' took 0.063
+[2024.07.22-01.27.51:930][858]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inputs/IMC_GoblinController] ([1] browsable assets)...
+[2024.07.22-01.27.51:930][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inputs/IMC_GoblinController]
+[2024.07.22-01.27.51:932][858]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inputs/IMC_GoblinController_Auto5
+[2024.07.22-01.27.51:932][858]LogSavePackage: Moving '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/IMC_GoblinController_Auto553781E2E4402ABD06906EBAD49D92514.tmp' to '../../../../../../Users/s220297/Documents/FortressGameJam/FortressGoblin/Saved/Autosaves/Game/Inputs/IMC_GoblinController_Auto5.uasset'
+[2024.07.22-01.27.51:932][858]LogFileHelpers: Auto-saving content packages took 0.003
+[2024.07.22-01.35.32:996][115]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.22-01.35.33:001][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.22-01.35.33:001][115]PIE: New page: PIE session: RhysKoutts (22 Jul 2024, 9:35:33 pm)
+[2024.07.22-01.35.33:001][115]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_RhysKoutts
+[2024.07.22-01.35.33:003][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001772s)
+[2024.07.22-01.35.33:003][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/RhysKoutts.RhysKoutts to /Game/Scenes/UEDPIE_0_RhysKoutts.RhysKoutts (0.001807s)
+[2024.07.22-01.35.33:042][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.07.22-01.35.33:047][115]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-01.35.33:047][115]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-01.35.33:048][115]LogAIModule: Creating AISystem for world RhysKoutts
+[2024.07.22-01.35.33:048][115]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2024.07.22-01.35.33:048][115]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.07.22-01.35.33:048][115]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.22-01.35.33:048][115]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.22-01.35.33:048][115]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.22-01.35.33:048][115]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.22-01.35.33:048][115]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.22-01.35.33:048][115]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.22-01.35.33:048][115]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.22-01.35.33:048][115]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.22-01.35.33:049][115]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.22-01.35.33:049][115]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.22-01.35.33:049][115]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.22-01.35.33:052][115]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.22-01.35.33:064][115]LogAudioMixer: Display: Using Audio Hardware Device Digital Audio (S/PDIF) (High Definition Audio Device)
+[2024.07.22-01.35.33:064][115]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.22-01.35.33:064][115]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.22-01.35.33:064][115]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.22-01.35.33:064][115]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.07.22-01.35.33:064][115]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.07.22-01.35.33:066][115]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.07.22-01.35.33:066][115]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.07.22-01.35.33:066][115]LogInit: FAudioDevice initialized with ID 11.
+[2024.07.22-01.35.33:066][115]LogAudio: Display: Audio Device (ID: 11) registered with world 'RhysKoutts'.
+[2024.07.22-01.35.33:066][115]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.07.22-01.35.33:069][115]LogLoad: Game class is 'BP_GoblinGameModeBase_C'
+[2024.07.22-01.35.33:069][115]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_RhysKoutts.RhysKoutts up for play (max tick rate 0) at 2024.07.22-11.35.33
+[2024.07.22-01.35.33:069][115]LogWorld: Bringing up level for play took: 0.000556
+[2024.07.22-01.35.33:071][115]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.07.22-01.35.33:072][115]PIE: Server logged in
+[2024.07.22-01.35.33:073][115]PIE: Play in editor total start time 0.072 seconds.
+[2024.07.22-01.35.36:677][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-01.35.36:677][527]LogWorld: BeginTearingDown for /Game/Scenes/UEDPIE_0_RhysKoutts
+[2024.07.22-01.35.36:677][527]LogWorld: UWorld::CleanupWorld for RhysKoutts, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-01.35.36:677][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-01.35.36:680][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.22-01.35.36:685][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-01.35.36:697][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-01.35.36:698][527]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.07.22-01.35.36:698][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.07.22-01.35.36:699][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.07.22-01.35.36:705][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.07.22-01.35.36:775][528]LogPlayLevel: Display: Destroying online subsystem :Context_21

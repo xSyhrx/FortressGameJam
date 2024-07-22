@@ -53,7 +53,19 @@
 				"C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/__ExternalObjects__/Scenes/RhysKouttsTestScene/D/8F/AZ9YQK9BYPTC3Q67QHCN7I.uasset",
 				"C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/__ExternalObjects__/Scenes/RhysKouttsTestScene/8/I8/D8EYE5MB3C61JMJCJGLOC5.uasset",
 				"C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Scenes/RhysKouttsTestScene.umap",
-				"C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Scenes/OscarTestScene.umap"
+				"C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Scenes/OscarTestScene.umap",
+				"C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Blueprints/BP_TopDownChar.uasset",
+				"C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Blueprints/Character/BP_TopDownChar.uasset",
+				"C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Blueprints/GameModes/BP_GoblinGameModeBase.uasset",
+				"C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Scenes/RhysKoutts.umap",
+				"C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/IMC_GoblinController.uasset",
+				"C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/IA_GoblinJump.uasset",
+				"C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/IA_GoblinMove.uasset",
+				"C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/IA_GoblinLook.uasset",
+				"C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/Actions/IA_GoblinMove.uasset",
+				"C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/Actions/IA_GoblinJump.uasset",
+				"C:/Users/s220297/Documents/FortressGameJam/FortressGoblin/Content/Inputs/Actions/IA_GoblinLook.uasset"
 			]
 		}
 	]
