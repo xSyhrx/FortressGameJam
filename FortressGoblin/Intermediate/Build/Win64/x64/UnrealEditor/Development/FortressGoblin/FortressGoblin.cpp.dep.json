@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\s220297\\documents\\fortressgamejam\\fortressgoblin\\source\\fortressgoblin\\fortressgoblin.cpp",
+        "Source": "c:\\users\\s220632\\documents\\github\\fortressgamejam\\fortressgoblin\\source\\fortressgoblin\\fortressgoblin.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\s220297\\documents\\fortressgamejam\\fortressgoblin\\intermediate\\build\\win64\\x64\\fortressgoblineditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "PCH": "c:\\users\\s220632\\documents\\github\\fortressgamejam\\fortressgoblin\\intermediate\\build\\win64\\x64\\fortressgoblineditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\s220297\\documents\\fortressgamejam\\fortressgoblin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fortressgoblin\\definitions.fortressgoblin.h",
-            "c:\\users\\s220297\\documents\\fortressgamejam\\fortressgoblin\\source\\fortressgoblin\\fortressgoblin.h"
+            "c:\\users\\s220632\\documents\\github\\fortressgamejam\\fortressgoblin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\fortressgoblin\\definitions.fortressgoblin.h",
+            "c:\\users\\s220632\\documents\\github\\fortressgamejam\\fortressgoblin\\source\\fortressgoblin\\fortressgoblin.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
