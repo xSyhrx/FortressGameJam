@@ -2960,3 +2960,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.22-01.35.36:699][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
 [2024.07.22-01.35.36:705][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
 [2024.07.22-01.35.36:775][528]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.07.22-01.42.26:651][922]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2024.07.22-01.42.33:914][922]LogAutomationController: Ignoring very large delta of 7.85 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
